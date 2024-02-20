@@ -5,7 +5,7 @@
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo web.
 - 🌱 Aprendiendo nuevas tecnologías y técnicas para mejorar mis habilidades de programación.
 - 👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo web y la programación.
-- 📫 Puedes contactarme a través de mi correo electrónico (tu@email.com) o en mis redes sociales.
+- 📫 Puedes contactarme a través de mi correo electrónico (mariamatamba453@gmail.com) o en mis redes sociales.
 
 ### Tecnologías y Herramientas
 
@@ -17,9 +17,9 @@ Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
 
 ### Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
+[![Estadísticas de GitHub]([![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MariamaTamba&show_icons=true&theme=radical)](https://github.com/MariamaTamba)
 
-¡No dudes en contactarme! Puedes encontrarme en:
+
+##¡No dudes en contactarme! Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/mariama-t-9b6993230/)
-- [Correo electrónico](mariamatamba453@gmail.com)
