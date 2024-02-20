@@ -17,7 +17,7 @@ Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
 
 ### Estadísticas de GitHub
 
-[![Estadísticas de GitHub]([![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MariamaTamba&show_icons=true&theme=radical)](https://github.com/MariamaTamba))
+([![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MariamaTamba&show_icons=true&theme=radical)](https://github.com/MariamaTamba))
 
 
 ¡No dudes en contactarme! Puedes encontrarme en:
