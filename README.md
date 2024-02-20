@@ -1,25 +1,24 @@
-### ¡Hola! 👋
+### Hello! 👋
 
-¡Bienvenida a mi perfil de GitHub! Soy Mariama, una programadora junior y estudiante. Apasionada por crear experiencias digitales impactantes y accesibles.
+Welcome to my GitHub profile! I'm Mariama, a junior programmer and student. Passionate about creating impactful and accessible digital experiences.
 
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web.
-- 🌱 Aprendiendo nuevas tecnologías y técnicas para mejorar mis habilidades de programación.
-- 👯 Estoy buscando colaborar en proyectos relacionados con el desarrollo web y la programación.
-- 📫 Puedes contactarme a través de mi correo electrónico (mariamatamba453@gmail.com) o en mis redes sociales.
+- 🔭 I'm currently working on web development projects.
+- 🌱 Learning new technologies and techniques to improve my programming skills.
+- 👯 I'm looking to collaborate on projects related to web development and programming.
+- 📫 You can contact me via email (mariamatamba453@gmail.com) or on my social networks.
 
-### Tecnologías y Herramientas
+### Technologies and Tools
 
-Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
+Here are some of the technologies and tools I work with:
 
-- Lenguajes de Programación: Java, HTML, CSS, JavaScript, Vue.js, jQuery, TypeScript.
-- Frameworks y Bibliotecas: Laravel, Spring Boot.
-- Herramientas de Desarrollo: Visual Studio Code, Eclipse.
+- Programming Languages: Java, HTML, CSS, JavaScript, Vue.js, jQuery, TypeScript.
+- Frameworks and Libraries: Laravel, Spring Boot.
+- Development Tools: Visual Studio Code, Eclipse.
 
-### Estadísticas de GitHub
+### GitHub Statistics
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MariamaTamba&show_icons=true&theme=radical)](https://github.com/MariamaTamba)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MariamaTamba&show_icons=true&theme=radical)](https://github.com/MariamaTamba)
 
-
-¡No dudes en contactarme! Puedes encontrarme en:
+Feel free to contact me! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mariama-t-9b6993230/)
