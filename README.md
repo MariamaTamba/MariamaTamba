@@ -15,10 +15,6 @@ Here are some of the technologies and tools I work with:
 - Frameworks and Libraries: Laravel, Spring Boot.
 - Development Tools: Visual Studio Code, Eclipse.
 
-### GitHub Statistics
-
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MariamaTamba&show_icons=true&theme=radical)](https://github.com/MariamaTamba)
-
 Feel free to contact me! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mariama-t-9b6993230/)
