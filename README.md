@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! 👋🏿
 
 Welcome to my GitHub profile! I'm Mariama, a junior programmer and student. Passionate about creating impactful and accessible digital experiences.
 
