@@ -1,14 +1,9 @@
-### Hello! 👋🏿
-
 Welcome to my GitHub profile! I'm Mariama, a junior programmer and student. Passionate about creating impactful and accessible digital experiences.
 
 - 🔭 I'm currently working on web development projects.
 - 🌱 Learning new technologies and techniques to improve my programming skills.
-- 👯 I'm looking to collaborate on projects related to web development and programming.
-- 
+   
 ### Technologies and Tools
-
-Here are some of the technologies and tools I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
