@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Mariama, a junior programmer and student. Pass
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariama-t-9b6993230/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariama-t-9b6993230/)
   
-Views: ![Profile views](https://komarev.com/ghpvc/?username=MariamaTamba)
 
